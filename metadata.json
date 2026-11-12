@@ -1,0 +1,6 @@
+{
+  "name": "Indonesia: The Unity Mission",
+  "description": "An interactive Grade 9 Social Studies strategy game exploring Indonesian cultural diversity, Bhinneka Tunggal Ika, and national integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
